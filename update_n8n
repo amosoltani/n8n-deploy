@@ -1,0 +1,3 @@
+# آخرین نسخه n8n (یا یک نسخه مشخص مثلا 1.68.0)
+FROM n8nio/n8n:latest
+ENV N8N_DIAGNOSTICS_ENABLED=false
